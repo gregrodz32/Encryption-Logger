@@ -14,3 +14,7 @@ I will start by creating the Logger.java file
 Tested logger.java to create a log.txt file and passed 
 
 starting on the encrypting file
+
+11:28PM - Finished encryption.java 
+
+starting driver file a
