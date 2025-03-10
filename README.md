@@ -7,6 +7,8 @@ Project Overview
 
 Processes communicate through pipes, and all user actions are recorded in a log file.  
 
+
+
  To compile and run the files use the following in your terminal:
  
  **cd CS4348-Project-1/java**
