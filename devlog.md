@@ -16,5 +16,9 @@ Tested logger.java to create a log.txt file and passed
 starting on the encrypting file
 
 11:28PM - Finished encryption.java 
+passed test
 
-starting driver file a
+starting driver file
+
+3/9/25 - completed driver file 
+ran testing everything checks out
