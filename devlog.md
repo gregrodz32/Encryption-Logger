@@ -19,6 +19,8 @@ starting on the encrypting file
 passed test
 
 starting driver file
+trouble getting the quit command to print in the log.txt before the file is actually quit
 
 3/9/25 - completed driver file 
 ran testing everything checks out
+created readme
