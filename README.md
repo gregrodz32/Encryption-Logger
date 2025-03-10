@@ -11,7 +11,7 @@ Processes communicate through pipes, and all user actions are recorded in a log 
 
  To compile and run the files use the following in your terminal:
  
- cd CS4348-Project-1/java
+ cd (path to bolder)/CS4348-Project-1-main/java
  
  javac Logger.java Encryption.java Driver.java
  
