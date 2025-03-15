@@ -11,9 +11,9 @@ Processes communicate through pipes, and all user actions are recorded in a log.
 
  To compile and run the files use the following in your terminal:
  
- >cd GXR230010-Project-1
- >javac Logger.java Encryption.java Driver.java
- >java Driver log.txt
+    > cd GXR230010-Project-1
+    javac Logger.java Encryption.java Driver.java
+    java Driver log.txt
  
 
 Usage Instructions -
