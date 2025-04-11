@@ -1,5 +1,3 @@
-**CS4348 Project 1 - Gregory Rodriguez GXR230010**
-
 Project Overview 
 1. Logger - Logs all activities with timestamps.  
 2. Encryption - Encrypts and decrypts text using the Vigenère Cipher.  
